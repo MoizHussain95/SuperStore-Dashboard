@@ -3,11 +3,15 @@
 ## Objective  
 The objective of this project was to perform a detailed analysis of the Superstore dataset and develop an interactive business dashboard using Power BI.
 The project involved multiple stages:
-###Data Cleaning & Transformation: Preparing raw sales and profit data for accurate reporting.
-###Exploratory Analysis: Identifying trends, high-performing categories, and regional performance.
-###KPI Definition: Selecting and calculating business-critical KPIs such as Total Sales, Total Profit, Average Sales, and Orders.
-###Dashboard Development: Designing a user-friendly Power BI dashboard with visuals for sales trends, sub-category performance, regional comparison, and segment contribution.
-###The main goal was to transform raw data into actionable insights that help understand which products, segments, and regions contribute the most to business growth.
+. Data Cleaning & Transformation: Preparing raw sales and profit data for accurate reporting.
+
+.Exploratory Analysis: Identifying trends, high-performing categories, and regional performance.
+
+.KPI Definition: Selecting and calculating business-critical KPIs such as Total Sales, Total Profit, Average Sales, and Orders.
+
+.Dashboard Development: Designing a user-friendly Power BI dashboard with visuals for sales trends, sub-category performance, regional comparison, and segment contribution.
+
+.The main goal was to transform raw data into actionable insights that help understand which products, segments, and regions contribute the most to business growth.
 
 ---
 
